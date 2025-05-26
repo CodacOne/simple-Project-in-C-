@@ -1,0 +1,10 @@
+D:\Abu hadhoud\abu hadhoud\Window Forms Course 14\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+D:\Abu hadhoud\abu hadhoud\Window Forms Course 14\Simple Calculator\bin\Debug\Simple Calculator.exe
+D:\Abu hadhoud\abu hadhoud\Window Forms Course 14\Simple Calculator\bin\Debug\Simple Calculator.pdb
+D:\Abu hadhoud\abu hadhoud\Window Forms Course 14\Simple Calculator\obj\Debug\Simple Calculator.csprojAssemblyReference.cache
+D:\Abu hadhoud\abu hadhoud\Window Forms Course 14\Simple Calculator\obj\Debug\Simple_Calculator.Form1.resources
+D:\Abu hadhoud\abu hadhoud\Window Forms Course 14\Simple Calculator\obj\Debug\Simple_Calculator.Properties.Resources.resources
+D:\Abu hadhoud\abu hadhoud\Window Forms Course 14\Simple Calculator\obj\Debug\Simple Calculator.csproj.GenerateResource.cache
+D:\Abu hadhoud\abu hadhoud\Window Forms Course 14\Simple Calculator\obj\Debug\Simple Calculator.csproj.CoreCompileInputs.cache
+D:\Abu hadhoud\abu hadhoud\Window Forms Course 14\Simple Calculator\obj\Debug\Simple Calculator.exe
+D:\Abu hadhoud\abu hadhoud\Window Forms Course 14\Simple Calculator\obj\Debug\Simple Calculator.pdb

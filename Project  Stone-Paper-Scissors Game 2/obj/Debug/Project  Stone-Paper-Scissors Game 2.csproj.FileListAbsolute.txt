@@ -1,0 +1,11 @@
+D:\Abu hadhoud\abu hadhoud\Window Forms Course 14\Project  Stone-Paper-Scissors Game 2\bin\Debug\Project  Stone-Paper-Scissors Game 2.exe.config
+D:\Abu hadhoud\abu hadhoud\Window Forms Course 14\Project  Stone-Paper-Scissors Game 2\bin\Debug\Project  Stone-Paper-Scissors Game 2.exe
+D:\Abu hadhoud\abu hadhoud\Window Forms Course 14\Project  Stone-Paper-Scissors Game 2\bin\Debug\Project  Stone-Paper-Scissors Game 2.pdb
+D:\Abu hadhoud\abu hadhoud\Window Forms Course 14\Project  Stone-Paper-Scissors Game 2\obj\Debug\Project__Stone_Paper_Scissors_Game_2.Form1.resources
+D:\Abu hadhoud\abu hadhoud\Window Forms Course 14\Project  Stone-Paper-Scissors Game 2\obj\Debug\Project__Stone_Paper_Scissors_Game_2.Properties.Resources.resources
+D:\Abu hadhoud\abu hadhoud\Window Forms Course 14\Project  Stone-Paper-Scissors Game 2\obj\Debug\Project  Stone-Paper-Scissors Game 2.csproj.GenerateResource.cache
+D:\Abu hadhoud\abu hadhoud\Window Forms Course 14\Project  Stone-Paper-Scissors Game 2\obj\Debug\Project  Stone-Paper-Scissors Game 2.csproj.CoreCompileInputs.cache
+D:\Abu hadhoud\abu hadhoud\Window Forms Course 14\Project  Stone-Paper-Scissors Game 2\obj\Debug\Project  Stone-Paper-Scissors Game 2.exe
+D:\Abu hadhoud\abu hadhoud\Window Forms Course 14\Project  Stone-Paper-Scissors Game 2\obj\Debug\Project  Stone-Paper-Scissors Game 2.pdb
+D:\Abu hadhoud\abu hadhoud\Window Forms Course 14\Project  Stone-Paper-Scissors Game 2\obj\Debug\Project__Stone_Paper_Scissors_Game_2.Form2.resources
+D:\Abu hadhoud\abu hadhoud\Window Forms Course 14\Project  Stone-Paper-Scissors Game 2\obj\Debug\Project  Stone-Paper-Scissors Game 2.csprojAssemblyReference.cache

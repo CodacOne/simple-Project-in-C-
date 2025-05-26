@@ -1,0 +1,10 @@
+D:\Abu hadhoud\abu hadhoud\Window Forms Course 14\Pizza Project Final\bin\Release\Pizza Project Final.exe.config
+D:\Abu hadhoud\abu hadhoud\Window Forms Course 14\Pizza Project Final\bin\Release\Pizza Project Final.exe
+D:\Abu hadhoud\abu hadhoud\Window Forms Course 14\Pizza Project Final\bin\Release\Pizza Project Final.pdb
+D:\Abu hadhoud\abu hadhoud\Window Forms Course 14\Pizza Project Final\obj\Release\Pizza Project Final.csprojAssemblyReference.cache
+D:\Abu hadhoud\abu hadhoud\Window Forms Course 14\Pizza Project Final\obj\Release\Pizza_Project_Final.Form1.resources
+D:\Abu hadhoud\abu hadhoud\Window Forms Course 14\Pizza Project Final\obj\Release\Pizza_Project_Final.Properties.Resources.resources
+D:\Abu hadhoud\abu hadhoud\Window Forms Course 14\Pizza Project Final\obj\Release\Pizza Project Final.csproj.GenerateResource.cache
+D:\Abu hadhoud\abu hadhoud\Window Forms Course 14\Pizza Project Final\obj\Release\Pizza Project Final.csproj.CoreCompileInputs.cache
+D:\Abu hadhoud\abu hadhoud\Window Forms Course 14\Pizza Project Final\obj\Release\Pizza Project Final.exe
+D:\Abu hadhoud\abu hadhoud\Window Forms Course 14\Pizza Project Final\obj\Release\Pizza Project Final.pdb
